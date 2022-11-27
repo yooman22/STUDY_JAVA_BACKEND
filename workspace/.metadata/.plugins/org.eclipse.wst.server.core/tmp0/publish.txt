@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Nov 19 22:52:03 KST 2022
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\yooma\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-websocket\\9.0.65\\bd70dfeb39cc83c6934be24fa377b21e541dbe76\\tomcat-embed-websocket-9.0.65.jar=WEB-INF/lib/tomcat-embed-websocket-9.0.65.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\yooma\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.tomcat.embed\\tomcat-embed-el\\9.0.65\\d278157387e59a5f9b48091dcada22b7c74aed00\\tomcat-embed-el-9.0.65.jar=WEB-INF/lib/tomcat-embed-el-9.0.65.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\yooma\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\5.3.23\\193f5276092d9cbe3222c63885b47ca7b2cce97\\spring-web-5.3.23.jar=WEB-INF/lib/spring-web-5.3.23.jar

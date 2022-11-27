@@ -1,0 +1,5 @@
+package com.example.API_PROJECT.SecretKey;
+
+public class JwtAuthenticationFilter {
+
+}
